@@ -1,11 +1,16 @@
 import React from 'react';
-import TodoItem from './components/TodoItem';
-import './App.css';
+import Deck from './components/Deck';
+import './assets/style/App.scss';
 
 function App() {
   return (
     <div className="App">
-      <TodoItem />
+      <h1> 
+          <span role='img' aria-label="Spade Suit"> ♠️ </span> 
+          Card Picker 
+          <span role='img' aria-label="Spade Suit"> ♠️ </span> 
+      </h1>
+      <Deck />
     </div>
   );
 }
