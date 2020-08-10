@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Card-Picker/static/css/main.8529d7ea.chunk.css",
+    "main.js": "/Card-Picker/static/js/main.d40ae467.chunk.js",
+    "main.js.map": "/Card-Picker/static/js/main.d40ae467.chunk.js.map",
+    "runtime-main.js": "/Card-Picker/static/js/runtime-main.d391fa58.js",
+    "runtime-main.js.map": "/Card-Picker/static/js/runtime-main.d391fa58.js.map",
+    "static/js/2.0bde1dd1.chunk.js": "/Card-Picker/static/js/2.0bde1dd1.chunk.js",
+    "static/js/2.0bde1dd1.chunk.js.map": "/Card-Picker/static/js/2.0bde1dd1.chunk.js.map",
+    "index.html": "/Card-Picker/index.html",
+    "precache-manifest.458ebb4dbcb7b0b23496dd7b800b564a.js": "/Card-Picker/precache-manifest.458ebb4dbcb7b0b23496dd7b800b564a.js",
+    "service-worker.js": "/Card-Picker/service-worker.js",
+    "static/css/main.8529d7ea.chunk.css.map": "/Card-Picker/static/css/main.8529d7ea.chunk.css.map",
+    "static/js/2.0bde1dd1.chunk.js.LICENSE.txt": "/Card-Picker/static/js/2.0bde1dd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d391fa58.js",
+    "static/js/2.0bde1dd1.chunk.js",
+    "static/css/main.8529d7ea.chunk.css",
+    "static/js/main.d40ae467.chunk.js"
+  ]
+}
